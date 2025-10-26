@@ -1,0 +1,5 @@
+to deploy the app,
+go to https://us-east-1.console.aws.amazon.com/amplify/apps
+and launch a new app.
+You then need to run sandbox from the root of the app file in the terminal
+The command to start the sandbox >>  npx ampx sandbox
